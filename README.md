@@ -199,7 +199,13 @@ flowchart TB
 
 ---
 
-### 3. Sequence: send one text message (as implemented today)
+---
+
+### 3.Worflow Diagram
+
+![Workflow diagram](docs/workflow-diagram.png)
+
+### 4. Sequence: send one text message (as implemented today)
 
 ```mermaid
 sequenceDiagram
@@ -507,6 +513,3 @@ Run after changing `app_user.dart`, `message.dart`, or `room.dart`.
 
 ---
 
-## License
-
-Specify your license here (e.g. MIT). If models/datasets are third-party, list their licenses separately in `docs/MODELS.md`.
